@@ -137,7 +137,7 @@ Supported from mumble-voip / toko-voip
 
 #### Getters
 
-The majority of setters are done through player states, while a small
+The majority of setters are done through player states.
 
 
 | State Bag     | Description                                                  | Return Type  |
@@ -189,7 +189,8 @@ enum DisabledRadioStates {
 	IsCuffed = 2,
 	IsPdCuffed = 4,
 	IsUnderWater = 8,
-	DoesntHaveItem = 16
+	DoesntHaveItem = 16,
+	PlayerDisabledRadio = 32,
 }
 ```
 
