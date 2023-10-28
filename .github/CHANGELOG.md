@@ -10,3 +10,4 @@
 3. [client/init/main.lua]: fix(radio): fix oversight with function call
 4. [workflows/dependency-review.yml]: chore(deps): bump actions/checkout from 3 to 4
 5. [voice-ui/pnpm-lock.yaml]: chore(deps-dev): bump follow-redirects in /voice-ui
+6. [voice-ui/pnpm-lock.yaml]: chore(deps-dev): bump browserify-sign from 4.2.1 to 4.2.2 in /voice-ui 
